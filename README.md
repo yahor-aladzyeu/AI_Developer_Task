@@ -4,8 +4,9 @@
 
 ## Uruchomienie aplikacji
 Aby uruchomić aplikację, użyj następującej komendy:
-
+```python
 python main.py
+```
 ## Project Structure
 
 - `main.py` – Main application script for processing the article.
